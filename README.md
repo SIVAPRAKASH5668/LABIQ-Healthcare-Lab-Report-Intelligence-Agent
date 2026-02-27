@@ -73,7 +73,7 @@
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/labiq.git
+git clone https://github.com/SIVAPRAKASH5668/LABIQ-Healthcare-Lab-Report-Intelligence-Agent.git
 cd labiq
 ```
 
